@@ -1,0 +1,14 @@
+Ciphertext:D7151C4C9D784370
+Plain text:Hello CS
+
+Ciphertext:445CA7153CB1D5A2
+Plain text:GaloisFF
+
+Ciphertext:0969EAA031E36D95
+Plain text:Classics
+
+Ciphertext:1EBEB7B57DF58CDB
+Plain text:12345678
+
+Ciphertext:FE74785A4C3CCC36
+Plain text:security
